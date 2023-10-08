@@ -7,6 +7,11 @@ module.exports = {
   ],
   theme: {
     extend: {
+      colors:{
+sharoon:{
+  400:'#001529'
+}
+      },
       backgroundImage: {
         'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
         'gradient-conic':
